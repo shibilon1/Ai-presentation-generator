@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Generator",
+  "description": "An AI-powered tool to instantly generate professional PowerPoint presentations from a simple topic or outline. Enter your subject, and the AI will create a structured presentation with titles and content for each slide, ready for download.",
+  "requestFramePermissions": []
+}
